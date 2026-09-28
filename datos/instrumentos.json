@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nombre": "Violín Acústico Cremona SV-175",
+    "familia": "cuerda",
+    "origen": "Italia",
+    "descripcion": "Instrumento de cuatro cuerdas frotadas elaborado en abeto y arce macizo.",
+    "disponible": true
+  },
+  {
+    "id": 2,
+    "nombre": "Flauta Traversa Yamaha YFL-222",
+    "familia": "viento",
+    "origen": "Japón",
+    "descripcion": "Instrumento de viento madera fabricado en níquel plateado con llaves cerradas.",
+    "disponible": true
+  },
+  {
+    "id": 3,
+    "nombre": "Batería Acústica Pearl Export EXX",
+    "familia": "percusión",
+    "origen": "Taiwán",
+    "descripcion": "Set completo de percusión con cascos de álamo y caoba asiática.",
+    "disponible": false
+  },
+  {
+    "id": 4,
+    "nombre": "Sintetizador Analógico Moog Sub 37",
+    "familia": "electrónico",
+    "origen": "Estados Unidos",
+    "descripcion": "Sintetizador parafónico de dos notas con panel de control totalmente analógico.",
+    "disponible": true
+  },
+  {
+    "id": 5,
+    "nombre": "Charango Profesional Kjarkas",
+    "familia": "cuerda",
+    "origen": "Bolivia",
+    "descripcion": "Instrumento de diez cuerdas dobles de origen andino tallado en madera de naranjillo.",
+    "disponible": true
+  },
+  {
+    "id": 6,
+    "nombre": "Trompeta Si Bemol Bach Stradivarius 180S37",
+    "familia": "viento",
+    "origen": "Estados Unidos",
+    "descripcion": "Instrumento de viento metal con campana martillada a mano y acabado plateado.",
+    "disponible": false
+  }
+]
